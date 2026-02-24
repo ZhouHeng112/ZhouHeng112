@@ -1,25 +1,24 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  schedule: # 每天零点自动更新
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # 允许你手动点击按钮立即更新
+  workflow_dispatch:
 
-# 关键新增：授予这个脚本读写权限，解决 128 报错
 permissions:
   contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-summary-cards
 
     steps:
       - uses: actions/checkout@v3
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          # 已经删除了 THEME 参数，解决 Unexpected input 报错
+          THEME: github_dark
           UTC_OFFSET: 8
