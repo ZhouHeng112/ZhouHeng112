@@ -18,13 +18,17 @@
 ## 📈 Contribution Analysis
 
 <p align="center">
-  <img src="profile-summary-card-output/default/1-repos-per-language.svg" width="49%" />
-  <img src="profile-summary-card-output/default/2-most-commit-language.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/ZhouHeng112/ZhouHeng112/main/profile-summary-card-output/highcontrast/0-profile-details.svg" width="90%" />
 </p>
 
 <p align="center">
-  <img src="profile-summary-card-output/default/3-stats.svg" width="49%" />
-  <img src="profile-summary-card-output/default/4-productive-time.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/ZhouHeng112/ZhouHeng112/main/profile-summary-card-output/highcontrast/1-repos-per-language.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/ZhouHeng112/ZhouHeng112/main/profile-summary-card-output/highcontrast/2-most-commit-language.svg" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZhouHeng112/ZhouHeng112/main/profile-summary-card-output/highcontrast/3-stats.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/ZhouHeng112/ZhouHeng112/main/profile-summary-card-output/highcontrast/4-productive-time.svg" width="49%" />
 </p>
 ---
 
