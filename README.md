@@ -1,24 +1,59 @@
-<h3 align="center">👋 Hello! I'm Zhou Heng.</h3>
+<h2 align="center">👋 Hello! I'm Zhou Heng.</h2>
 
 <p align="center">
-  💻 AI Researcher | 📊 Quant Explorer | 🔬 Signal Processing  
+  💻 AI Researcher · 📊 Quant Explorer · 🔬 Signal Processing
+</p>
+
+<p align="center">
+  <a href="https://zhouheng112.github.io/">
+    <img src="https://img.shields.io/badge/Website-zhouheng112.github.io-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:z3251194379@gmail.com">
+    <img src="https://img.shields.io/badge/Email-z3251194379%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZhouHeng112&show_icons=true&theme=github_dark&bg_color=0D1117&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZhouHeng112&theme=github-dark&background=0D1117&hide_border=true" width="48%" />
+  <a href="https://github.com/ZhouHeng112/EduTopicPredictor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZhouHeng112&repo=EduTopicPredictor&theme=github_dark&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/ZhouHeng112/livenessDetection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZhouHeng112&repo=livenessDetection&theme=github_dark&hide_border=true&bg_color=0D1117" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ZhouHeng112/att">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZhouHeng112&repo=att&theme=github_dark&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/ZhouHeng112/ZhouHeng112.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZhouHeng112&repo=ZhouHeng112.github.io&theme=github_dark&hide_border=true&bg_color=0D1117" />
+  </a>
 </p>
 
 ---
 
-## 📈 Contribution Analysis
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZhouHeng112/ZhouHeng112/main/profile-summary-card-output/highcontrast/0-profile-details.svg" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZhouHeng112&show_icons=true&theme=github_dark&bg_color=0D1117&hide_border=true&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZhouHeng112&theme=github-dark&background=0D1117&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhouHeng112&layout=compact&theme=github_dark&bg_color=0D1117&hide_border=true" width="45%" />
+</p>
+
+---
+
+## 📈 Contribution Dashboard (High Contrast)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZhouHeng112/ZhouHeng112/main/profile-summary-card-output/highcontrast/0-profile-details.svg" width="100%" />
 </p>
 
 <p align="center">
@@ -30,29 +65,23 @@
   <img src="https://raw.githubusercontent.com/ZhouHeng112/ZhouHeng112/main/profile-summary-card-output/highcontrast/3-stats.svg" width="49%" />
   <img src="https://raw.githubusercontent.com/ZhouHeng112/ZhouHeng112/main/profile-summary-card-output/highcontrast/4-productive-time.svg" width="49%" />
 </p>
+
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
 - 🎓 M.S. in Computer Science  
-- 🔍 Research: Graph Neural Networks, Federated Learning, Signal Processing  
-- 🤖 Exploring LLM + Quantitative Finance  
-- 🌏 Interested in Global Arbitrage & System Building  
+- 🔍 Interests: Graph Neural Networks, Federated Learning, Signal Processing  
+- 🤖 Exploring: LLM + Quantitative Finance  
+- 🌏 Goal: Global arbitrage & system building  
 
 ---
 
 ## 🛠 Tech Stack
 
-Python | PyTorch | TensorFlow | LightGBM
-C++ | MATLAB | SQL
-Git | Linux | Docker
-
----
-
-## 🌐 Connect With Me
-
-- 🔗 Personal Website: https://zhouheng112.github.io/
-- 📧 Email: z3251194379@gmail.com
+**Languages:** Python, C++, MATLAB, SQL  
+**ML:** PyTorch, TensorFlow, LightGBM  
+**Tools:** Git, Linux, Docker  
 
 ---
 
