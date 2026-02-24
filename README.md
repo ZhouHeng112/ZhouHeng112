@@ -20,19 +20,19 @@
 
 <p align="center">
   <a href="https://github.com/ZhouHeng112/EduTopicPredictor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZhouHeng112&repo=EduTopicPredictor&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ZhouHeng112&repo=EduTopicPredictor&theme=github_dark&hide_border=true" />
   </a>
   <a href="https://github.com/ZhouHeng112/livenessDetection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZhouHeng112&repo=livenessDetection&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ZhouHeng112&repo=livenessDetection&theme=github_dark&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ZhouHeng112/att">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZhouHeng112&repo=att&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ZhouHeng112&repo=att&theme=github_dark&hide_border=true" />
   </a>
   <a href="https://github.com/ZhouHeng112/ZhouHeng112.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZhouHeng112&repo=ZhouHeng112.github.io&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ZhouHeng112&repo=ZhouHeng112.github.io&theme=github_dark&hide_border=true" />
   </a>
 </p>
 
