@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hello! I'm Zhou Heng.</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZhouHeng112&show_icons=true&theme=github_dark&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZhouHeng112&show_icons=true&theme=github_dark&bg_color=0D1117&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZhouHeng112&theme=github-dark&background=0D1117&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
