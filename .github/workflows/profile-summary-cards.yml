@@ -5,6 +5,10 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch: # 允许你手动点击按钮立即更新
 
+# 关键新增：授予这个脚本读写权限，解决 128 报错
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -17,5 +21,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          THEME: github_dark
+          # 已经删除了 THEME 参数，解决 Unexpected input 报错
           UTC_OFFSET: 8
