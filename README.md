@@ -41,12 +41,12 @@
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZhouHeng112&show_icons=true&theme=github_dark&bg_color=0D1117&hide_border=true&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZhouHeng112&theme=github-dark&background=0D1117&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZhouHeng112&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=ZhouHeng112&theme=github-dark&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhouHeng112&layout=compact&theme=github_dark&bg_color=0D1117&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZhouHeng112&layout=compact&theme=github_dark&hide_border=true" width="45%" />
 </p>
 
 ---
