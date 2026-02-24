@@ -18,11 +18,10 @@
 ## 📈 Contribution Analysis
 
 <p align="center">
-  <img src="profile-summary-card-output/default/1-repo-languages.svg" width="32%" />
-  <img src="profile-summary-card-output/default/2-commit-languages.svg" width="32%" />
+  <img src="profile-summary-card-output/default/1-repos-per-language.svg" width="32%" />
+  <img src="profile-summary-card-output/default/2-commits-per-language.svg" width="32%" />
   <img src="profile-summary-card-output/default/3-commits-by-time.svg" width="32%" />
 </p>
-
 ---
 
 ## 🚀 About Me
