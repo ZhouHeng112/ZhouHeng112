@@ -18,9 +18,13 @@
 ## 📈 Contribution Analysis
 
 <p align="center">
-  <img src="profile-summary-card-output/default/1-repos-per-language.svg" width="32%" />
-  <img src="profile-summary-card-output/default/2-commits-per-language.svg" width="32%" />
-  <img src="profile-summary-card-output/default/3-commits-by-time.svg" width="32%" />
+  <img src="profile-summary-card-output/default/1-repos-per-language.svg" width="49%" />
+  <img src="profile-summary-card-output/default/2-most-commit-language.svg" width="49%" />
+</p>
+
+<p align="center">
+  <img src="profile-summary-card-output/default/3-stats.svg" width="49%" />
+  <img src="profile-summary-card-output/default/4-productive-time.svg" width="49%" />
 </p>
 ---
 
